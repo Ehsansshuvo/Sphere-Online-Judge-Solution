@@ -1,3 +1,4 @@
+```
 #include<bits/stdc++.h>
 #define llu unsigned long long
 #define ll long long
@@ -39,3 +40,4 @@ int main()
     }
     return 0;
 }
+```
